@@ -5,7 +5,7 @@
         "repository":   "proprietary_vendor_asus",
         "target_path":  "vendor/asus",
         "revision":     "cm-10.2"
-    };
+    },
     {
         "remote":       "aosp"
         "account":      "device"

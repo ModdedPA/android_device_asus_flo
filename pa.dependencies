@@ -7,18 +7,16 @@
         "revision":     "refs/tags/android-4.4_r1"
     },
     {
-        "remote":       "github",
-        "account":      "AOSPA",
+        "remote":       "moddedpa",
         "repository":   "android_hardware_qcom_display",
         "target_path":  "hardware/qcom/display",
         "revision":     "kitkat"
     },
     {
-        "remote":       "aosp",
-        "account":      "platform",
-        "repository":   "hardware/qcom/media",
+        "remote":       "moddedpa",
+        "repository":   "android_hardware_qcom_media",
         "target_path":  "hardware/qcom/media",
-        "revision":     "refs/tags/android-4.4_r1"
+        "revision":     "kitkat"
     },
     {
         "remote":       "aosp",

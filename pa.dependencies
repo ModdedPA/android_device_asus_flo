@@ -68,10 +68,9 @@
         "revision":     "refs/tags/android-4.4_r1.1"
     },
     {
-        "remote":       "github",
-        "account":      "ThankYouMario",
-        "repository":   "proprietary_vendor_asus",
-        "target_path":  "vendor/asus",
-        "revision":     "kitkat"
+        "remote":       "moddedpa",
+        "repository":   "proprietary_vendor_asus_flo",
+        "target_path":  "vendor/asus/flo",
+        "revision":     "master"
     }
 ]

@@ -69,6 +69,12 @@
     },
     {
         "remote":       "moddedpa",
+        "repository":   "android_kernel_msm",
+        "target_path":  "kernel/google/msm",
+        "revision":     "android-msm-flo-3.4-kitkat-mr0"
+    },
+    {
+        "remote":       "moddedpa",
         "repository":   "proprietary_vendor_asus_flo",
         "target_path":  "vendor/asus/flo",
         "revision":     "master"

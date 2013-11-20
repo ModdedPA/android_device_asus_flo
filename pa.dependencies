@@ -61,13 +61,6 @@
         "revision":     "refs/tags/android-4.4_r1.2"
     },
     {
-        "remote":       "aosp",
-        "account":      "device",
-        "repository":   "asus/flo-kernel",
-        "target_path":  "device/asus/flo-kernel",
-        "revision":     "refs/tags/android-4.4_r1.2"
-    },
-    {
         "remote":       "moddedpa",
         "repository":   "android_kernel_msm",
         "target_path":  "kernel/google/msm",
